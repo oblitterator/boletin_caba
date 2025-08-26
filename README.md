@@ -1,7 +1,6 @@
 
 ---
-title: "Extracción y Almacenamiento con API del BO de CABA - TP1"
-output: html_document
+"Extracción y Almacenamiento con API del BO de CABA - TP1"
 ---
 
 # 📘 Introducción
