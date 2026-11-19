@@ -1,0 +1,43 @@
+{
+ "range": [
+  "2026-11-12",
+  "2026-11-19"
+ ],
+ "concurrency": 6,
+ "min_interval_s": 0.15,
+ "wall_s": 0.7,
+ "days_s": 0.0,
+ "days_ok": 8,
+ "day_errors": [],
+ "items": 269,
+ "item_failures": 0,
+ "failure_detail": [],
+ "http_requests": 0,
+ "http_retries": 0,
+ "mb": 0.0,
+ "latency_p50_s": 0,
+ "latency_p95_s": 0,
+ "latency_max_s": 0,
+ "amount_stage_items": 117,
+ "amount_hit": 115,
+ "with_cuit": 86,
+ "high_confidence": 69,
+ "needs_llm": 48,
+ "usd_items": 15,
+ "with_bac_code": 208,
+ "stages": {
+  "llamado": 119,
+  "preadjudicacion": 74,
+  "prorroga": 5,
+  "adjudicacion": 43,
+  "circular_sin_consulta": 4,
+  "correccion": 2,
+  "desierta_fracasada": 1,
+  "circular_con_consulta": 15,
+  "invitacion_a_expresiones_de_interes": 1,
+  "anulacion": 2,
+  "preseleccion": 1,
+  "rescision": 1,
+  "apertura": 1
+ }
+}

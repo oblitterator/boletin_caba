@@ -1,0 +1,2836 @@
+{
+ "rows": [
+  {
+   "id_norma": 1010977,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1012288,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1013541,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1013805,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1013844,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1014190,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1014521,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1014575,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1014771,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1014846,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1014862,
+   "etapa_old": null,
+   "etapa_new": "invitacion_a_expresiones_de_interes",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1014872,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1014909,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1014912,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1014917,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015067,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015094,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015103,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015120,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 350000.0,
+   "totals_new": {
+    "ARS": 350000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015122,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 3206163.0,
+   "totals_new": {
+    "ARS": 3206163.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015123,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 29496436.4,
+   "totals_new": {
+    "ARS": 29496436.4
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015148,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 2280670.0,
+   "totals_new": {
+    "ARS": 2280670.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015229,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015234,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 18000000.0,
+   "totals_new": {
+    "ARS": 18000000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015259,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015270,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015271,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015274,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015276,
+   "etapa_old": "circular_sin_consulta",
+   "etapa_new": "circular_sin_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015277,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015295,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015303,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015315,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 5662800.0,
+   "totals_new": {
+    "ARS": 5662800.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015316,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 1315934700.0,
+   "totals_new": {
+    "ARS": 396471100.0
+   },
+   "method_new": "sum_winners",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015379,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "ARS": 38876395.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015384,
+   "etapa_old": null,
+   "etapa_new": "correccion",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015386,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "ARS": 7440000.0
+   },
+   "method_new": "sum_items",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015395,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 1298049.28,
+   "totals_new": {
+    "ARS": 1298049.28
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015407,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 5207200000.0,
+   "totals_new": {
+    "ARS": 5207200000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015416,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015422,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 330000.0,
+   "totals_new": {
+    "ARS": 330000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015430,
+   "etapa_old": "prorroga",
+   "etapa_new": "prorroga",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015438,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "ARS": 286363200.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015439,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 7043160.0,
+   "totals_new": {
+    "ARS": 7043160.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015440,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 9000000.0,
+   "totals_new": {
+    "ARS": 9000000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015442,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015451,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 5478235.0,
+   "totals_new": {
+    "ARS": 5478235.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015460,
+   "etapa_old": null,
+   "etapa_new": "correccion",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015489,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015512,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 3049200.0,
+   "totals_new": {
+    "ARS": 3049200.0
+   },
+   "method_new": "max_amount",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015515,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 689317830.0,
+   "totals_new": {
+    "ARS": 689317830.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015516,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015531,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 450000.0,
+   "totals_new": {
+    "ARS": 450000.0
+   },
+   "method_new": "max_amount",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015549,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015559,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "USD": 194210.0,
+    "ARS": 7528290000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015561,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015563,
+   "etapa_old": "circular_sin_consulta",
+   "etapa_new": "circular_sin_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015570,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 19200000.0,
+   "totals_new": {
+    "ARS": 19200000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015575,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015588,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 36000000.0,
+   "totals_new": {
+    "ARS": 36000000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015593,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 22387029.7,
+   "totals_new": {
+    "ARS": 22387029.7
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015595,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 286007.31,
+   "totals_new": {
+    "USD": 286007.31
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015600,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 235998.34,
+   "totals_new": {
+    "USD": 235998.34
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015602,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 14400000.0,
+   "totals_new": {
+    "ARS": 14400000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015604,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015605,
+   "etapa_old": null,
+   "etapa_new": "desierta_fracasada",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015608,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015610,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015614,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "USD": 28690.88
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015619,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015625,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "USD": 92749.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015632,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 103336560.0,
+   "totals_new": {
+    "ARS": 8611380.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015635,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 2495000.0,
+   "totals_new": {
+    "USD": 39960.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015667,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015091,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 8569895.5,
+   "totals_new": {
+    "ARS": 14848459.5
+   },
+   "method_new": "sum_winners",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015368,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015372,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015380,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015385,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015391,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 4846299.58,
+   "totals_new": {
+    "ARS": 4846299.58
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015454,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": null,
+   "conf": "low"
+  },
+  {
+   "id_norma": 1015483,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015540,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015568,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015592,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015732,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015740,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 7131949.0,
+   "totals_new": {
+    "ARS": 7131949.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015748,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015762,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 31149930.0,
+   "totals_new": {
+    "ARS": 36802930.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015768,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015769,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 1922220.0,
+   "totals_new": {
+    "ARS": 1922220.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015775,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 689700.0,
+   "totals_new": {
+    "ARS": 689700.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015781,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 6775959.06,
+   "totals_new": {
+    "ARS": 6775959.06
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015791,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 78418494.0,
+   "totals_new": {
+    "ARS": 78418494.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015795,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015796,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015798,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015804,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015811,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015818,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015821,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015835,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 5224175.0,
+   "totals_new": {
+    "ARS": 5224175.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015836,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015837,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 810613130.0,
+   "totals_new": {
+    "ARS": 810613130.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015841,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 119205.0,
+   "totals_new": {
+    "USD": 119205.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015842,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015846,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 317800.0,
+   "totals_new": {
+    "USD": 317800.0
+   },
+   "method_new": "kw_other",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015848,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 1017087084.0,
+   "totals_new": {
+    "ARS": 1017087084.0
+   },
+   "method_new": "kw_other",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015853,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 1030500.0,
+   "totals_new": {
+    "ARS": 1030500.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015854,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015861,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 4700000.0,
+   "totals_new": {
+    "ARS": 4700000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015862,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015866,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 2229400.0,
+   "totals_new": {
+    "ARS": 2229400.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015870,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 748210413.56,
+   "totals_new": {
+    "ARS": 748210413.56
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015874,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015877,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "ARS": 72168000.0
+   },
+   "method_new": "kw_other",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015887,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015893,
+   "etapa_old": "prorroga",
+   "etapa_new": "prorroga",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015898,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015907,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 80730090.0,
+   "totals_new": {
+    "USD": 762.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015911,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 27125730.0,
+   "totals_new": {
+    "ARS": 27125730.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015912,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015924,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015932,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015936,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015469,
+   "etapa_old": "prorroga",
+   "etapa_new": "prorroga",
+   "monto_old": 103500000.0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015598,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 22402500.0,
+   "totals_new": {
+    "ARS": 22402500.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015713,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015735,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015810,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 300000.0,
+   "totals_new": {
+    "ARS": 300000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015824,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 600000.0,
+   "totals_new": {
+    "ARS": 600000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015829,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015830,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015850,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 24801250.0,
+   "totals_new": {
+    "ARS": 24801250.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015947,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015948,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015961,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 3720083.95,
+   "totals_new": {
+    "ARS": 3720.0
+   },
+   "method_new": "kw_other",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015962,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015967,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "ARS": 3993000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015969,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 2780000.0,
+   "totals_new": {
+    "ARS": 2780000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015988,
+   "etapa_old": null,
+   "etapa_new": "anulacion",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015990,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015991,
+   "etapa_old": null,
+   "etapa_new": "apertura",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015998,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016002,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016026,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016043,
+   "etapa_old": null,
+   "etapa_new": "rescision",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016063,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 31510800.0,
+   "totals_new": {
+    "ARS": 29658000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016070,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016073,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016078,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 14936657.8,
+   "totals_new": {
+    "USD": 404700.0,
+    "ARS": 11990000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016083,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 18483960.0,
+   "totals_new": {
+    "ARS": 18483960.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016087,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 335666116.8,
+   "totals_new": {
+    "ARS": 335666116.8
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016090,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016095,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 156273.28,
+   "totals_new": {
+    "USD": 156273.28
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016098,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 275730.0,
+   "totals_new": {
+    "USD": 275436.0
+   },
+   "method_new": "sum_winners",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016100,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016101,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016102,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016115,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 241291500.0,
+   "totals_new": {
+    "ARS": 241291500.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016142,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016145,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 6178400676.36,
+   "totals_new": {
+    "ARS": 567219302.04
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016159,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "ARS": 623028528.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016178,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016221,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "ARS": 216000000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016242,
+   "etapa_old": "prorroga",
+   "etapa_new": "prorroga",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015767,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 11392560.0,
+   "totals_new": {
+    "ARS": 11392560.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015982,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015983,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016042,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016082,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016130,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 80238613.0,
+   "totals_new": {
+    "ARS": 80238613.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016208,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 325359142.5,
+   "totals_new": {
+    "ARS": 325359142.5
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016229,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016237,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 312000000.0,
+   "totals_new": {
+    "ARS": 312000000.0
+   },
+   "method_new": "max_amount",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016288,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 47432000.0,
+   "totals_new": {
+    "ARS": 47432000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016304,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 1144740.0,
+   "totals_new": {
+    "ARS": 1144740.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016307,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 208955253.3,
+   "totals_new": {
+    "ARS": 208955253.3
+   },
+   "method_new": "sum_items",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016308,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 426519500.0,
+   "totals_new": {
+    "ARS": 426519500.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016312,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "ARS": 2596000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016323,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 1208790.28,
+   "totals_new": {
+    "ARS": 1208790.28
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016340,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 39888690.0,
+   "totals_new": {
+    "ARS": 39888690.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016346,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 212039300.0,
+   "totals_new": {
+    "ARS": 212039300.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016353,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 737220.0,
+   "totals_new": {
+    "ARS": 737220.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016360,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016369,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016382,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 922934.76,
+   "totals_new": {
+    "ARS": 922934.76
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016425,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016514,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 1270000.0,
+   "totals_new": {
+    "ARS": 1270000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016565,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 214902.0,
+   "totals_new": {
+    "ARS": 214902.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016591,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016620,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016650,
+   "etapa_old": "circular_sin_consulta",
+   "etapa_new": "circular_sin_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016732,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 18290707200.0,
+   "totals_new": {
+    "USD": 11884800.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017010,
+   "etapa_old": null,
+   "etapa_new": "preseleccion",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1015400,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016036,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016305,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 3860500.0,
+   "totals_new": {
+    "ARS": 3860500.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016327,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016331,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016554,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016681,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016712,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016736,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016754,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016756,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016771,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016772,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 87935043.54,
+   "totals_new": {
+    "ARS": 87935043.54
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016783,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "USD": 127880.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016792,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016795,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016804,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016824,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 154407598.0,
+   "totals_new": {
+    "ARS": 154407598.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016825,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016850,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 15779000.0,
+   "totals_new": {
+    "ARS": 23505715.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016853,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 12650000.0,
+   "totals_new": {
+    "ARS": 12650000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016856,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016860,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016873,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 20160000.0,
+   "totals_new": {
+    "ARS": 37800000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016879,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016885,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 181673280.0,
+   "totals_new": {
+    "ARS": 181673280.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016888,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016898,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016904,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 30120000.0,
+   "totals_new": {
+    "ARS": 30120000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016910,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016911,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016914,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016918,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 216406661.16,
+   "totals_new": {
+    "ARS": 216406661.16
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016925,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016928,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 2287410.0,
+   "totals_new": {
+    "ARS": 2287410.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016937,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016947,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "ARS": 77900000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016951,
+   "etapa_old": "prorroga",
+   "etapa_new": "prorroga",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016952,
+   "etapa_old": "circular_sin_consulta",
+   "etapa_new": "circular_sin_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016969,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 471060000.0,
+   "totals_new": {
+    "ARS": 471060000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017015,
+   "etapa_old": null,
+   "etapa_new": "preadjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "ARS": 12238272.66
+   },
+   "method_new": "kw_other",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1017023,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 240000000.0,
+   "totals_new": {
+    "ARS": 451200000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016759,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016762,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016867,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1016986,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 54169679.8,
+   "totals_new": {
+    "ARS": 54169679.8
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017007,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1017018,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 14997154.0,
+   "totals_new": {
+    "ARS": 14997154.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017045,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 6750000.0,
+   "totals_new": {
+    "ARS": 6750000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017080,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1017083,
+   "etapa_old": "circular_con_consulta",
+   "etapa_new": "circular_con_consulta",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1017087,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 3206163.0,
+   "totals_new": {
+    "ARS": 3206163.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017090,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 177880.0,
+   "totals_new": {
+    "ARS": 177880.0
+   },
+   "method_new": "kw_other",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017091,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 177880.0,
+   "totals_new": {
+    "ARS": 177880.0
+   },
+   "method_new": "kw_other",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017094,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 18000000.0,
+   "totals_new": {
+    "ARS": 18000000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017100,
+   "etapa_old": null,
+   "etapa_new": "anulacion",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1017103,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 14954869.82,
+   "totals_new": {
+    "ARS": 14954869.82
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1017119,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1017141,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 3516144000.0,
+   "totals_new": {
+    "ARS": 3516144000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017152,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 66271043.2,
+   "totals_new": {
+    "ARS": 64910938.29
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1017155,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": null,
+   "conf": "low"
+  },
+  {
+   "id_norma": 1017159,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 114741162.44,
+   "totals_new": {
+    "ARS": 114741162.44
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1017165,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 26790000.0,
+   "totals_new": {
+    "ARS": 44115000.0
+   },
+   "method_new": "sum_winners",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017166,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1017187,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1017189,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 131446.9,
+   "totals_new": {
+    "USD": 131446.9
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017193,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1017197,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1017200,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1017204,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 5532442.0,
+   "totals_new": {
+    "ARS": 5532442.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1017208,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 360000000.0,
+   "totals_new": {
+    "ARS": 360000000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017213,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  },
+  {
+   "id_norma": 1017217,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 0,
+   "totals_new": {
+    "ARS": 675407040.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017232,
+   "etapa_old": "llamado",
+   "etapa_new": "llamado",
+   "monto_old": 0,
+   "totals_new": {},
+   "method_new": "n/a_stage",
+   "conf": null
+  }
+ ],
+ "disagreements": [
+  {
+   "id_norma": 1015316,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 1315934700.0,
+   "totals_new": {
+    "ARS": 396471100.0
+   },
+   "method_new": "sum_winners",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015632,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 103336560.0,
+   "totals_new": {
+    "ARS": 8611380.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015635,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 2495000.0,
+   "totals_new": {
+    "USD": 39960.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015091,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 8569895.5,
+   "totals_new": {
+    "ARS": 14848459.5
+   },
+   "method_new": "sum_winners",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015762,
+   "etapa_old": "adjudicacion",
+   "etapa_new": "adjudicacion",
+   "monto_old": 31149930.0,
+   "totals_new": {
+    "ARS": 36802930.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1015907,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 80730090.0,
+   "totals_new": {
+    "USD": 762.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1015961,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 3720083.95,
+   "totals_new": {
+    "ARS": 3720.0
+   },
+   "method_new": "kw_other",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016063,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 31510800.0,
+   "totals_new": {
+    "ARS": 29658000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016078,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 14936657.8,
+   "totals_new": {
+    "USD": 404700.0,
+    "ARS": 11990000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016145,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 6178400676.36,
+   "totals_new": {
+    "ARS": 567219302.04
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1016732,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 18290707200.0,
+   "totals_new": {
+    "USD": 11884800.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016850,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 15779000.0,
+   "totals_new": {
+    "ARS": 23505715.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1016873,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 20160000.0,
+   "totals_new": {
+    "ARS": 37800000.0
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1017023,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 240000000.0,
+   "totals_new": {
+    "ARS": 451200000.0
+   },
+   "method_new": "kw_total",
+   "conf": "high"
+  },
+  {
+   "id_norma": 1017152,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 66271043.2,
+   "totals_new": {
+    "ARS": 64910938.29
+   },
+   "method_new": "kw_total",
+   "conf": "medium"
+  },
+  {
+   "id_norma": 1017165,
+   "etapa_old": "preadjudicacion",
+   "etapa_new": "preadjudicacion",
+   "monto_old": 26790000.0,
+   "totals_new": {
+    "ARS": 44115000.0
+   },
+   "method_new": "sum_winners",
+   "conf": "high"
+  }
+ ]
+}
