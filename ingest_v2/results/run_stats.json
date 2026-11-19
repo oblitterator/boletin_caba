@@ -1,0 +1,67 @@
+{
+ "note": "network figures from the first (cold) run; parse figures from the final parser",
+ "old_code_same_range": {
+  "wall_min": "~21 (13:39-14:00 file mtimes)",
+  "pdfs_lost": 10,
+  "of": 269,
+  "cause": "10 s read timeout vs 8-11 s cold server path; lost PDFs become empty text"
+ },
+ "range": [
+  "2026-11-12",
+  "2026-11-19"
+ ],
+ "concurrency": 6,
+ "min_interval_s": 0.15,
+ "wall_s": 137.1,
+ "items": 269,
+ "item_failures": 0,
+ "http_requests": 280,
+ "http_retries": 0,
+ "mb": 10.2,
+ "latency_p50_s": 0.2,
+ "latency_p95_s": 10.3,
+ "latency_max_s": 11.29,
+ "cpu_user_s": 4.0,
+ "award_stage_items": 117,
+ "amount_found": 115,
+ "amount_high_conf": 72,
+ "needs_llm": 45,
+ "usd_items": 15,
+ "with_winner": 86,
+ "with_cuit_in_text": 38,
+ "name_only_winner_needs_registry": 48,
+ "with_bac_code_all_items": 208,
+ "stages": {
+  "llamado": 119,
+  "invitacion_a_expresiones_de_interes": 1,
+  "preadjudicacion": 74,
+  "adjudicacion": 43,
+  "circular_sin_consulta": 4,
+  "correccion": 2,
+  "prorroga": 5,
+  "desierta_fracasada": 1,
+  "circular_con_consulta": 15,
+  "anulacion": 2,
+  "apertura": 1,
+  "rescision": 1,
+  "preseleccion": 1
+ },
+ "amount_methods": {
+  "kw_total": 99,
+  "sum_winners": 4,
+  "sum_items": 2,
+  "max_amount": 3,
+  "null": 2,
+  "kw_other": 7
+ },
+ "llm_reasons": {
+  "no_winner": 31,
+  "winner_without_amount": 7,
+  "weak_amount_heuristic": 3,
+  "malformed_number": 2,
+  "multi_currency": 2,
+  "winners_total_mismatch": 6,
+  "items_total_mismatch": 3,
+  "no_amount": 2
+ }
+}
