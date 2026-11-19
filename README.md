@@ -26,7 +26,7 @@ De manera complementaria, el portal de datos abiertos de la Ciudad publica el pa
 Compras (BAC)** en formato OCDS (Open Contracting Data Standard).
 
 Este proyecto es la segunda versión de un trabajo previo
-([boletin_caba](https://github.com/oblitterator/boletin_caba)), rediseñado para persistir en PostgreSQL y para
+(disponible en el tag `v1-delta-lake` de este repositorio), rediseñado para persistir en PostgreSQL y para
 producir indicadores trazables hasta el documento de origen.
 
 ---
