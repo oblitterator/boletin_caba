@@ -1,0 +1,255 @@
+[
+ {
+  "id_norma": 770017,
+  "nombre": "Licitación Pública / Preadjudicación  N° 1765/APRA/23",
+  "texto": "AGENCIA DE PROTECCIÓN AMBIENTAL \n \nPreadjudicación - Licitación Pública N°:7207-1765-LPU23 \n \nEX-2023-39958050-GCABA-APRA  \nLicitación Pública N°:7207-1765-LPU23 \nNombre de proceso de compra: adquisición de equipo aerogenerador  \nApertura: 16/11/2023 12:00:00 horas. \nObservaciones:  Reunida  la  Comisión  Evaluadora  de  Ofertas  de  la  Licitación  de \nreferencia designada a tal fin mediante Resolución N°  RESOL-2022-371-GCABA-\nAPRA  con  referencia  a  la  presencia  de  la  Sra.  Florencia  Wexler,  Sra.  Leticia \nSerebrinsky, Sra. Marcela Susana López Dantas y la Sra. Marcelle Lopez Carrasco \ncon el fin de proceder a la evaluación de la presentación efectuada por la empresa: \nVexmel SRL - 30715416537 \nFundamentación: Se analizaron los aspectos formales y económicos de la oferta y se \nobservó que las  mismas  dan  cumplimiento a los requisitos. \nPor todo lo expresado, esta Comisión recomienda adjudicar a la firma: \nRenglón       Proveedor                                                          Precio total final  \n1.1       VEXMEL SRL - 30715416537                              Total: ARS 3.750.000,00 \nPrecio total de la Pre adjudicación: ARS 3.750.000,00  \nDictamen de Pre Adjudicación de ofertas: IF-2023-43051533-GCABA-APRA  \n  \nRenzo Morosi \nPresidente \n",
+  "esperado": {
+   "codigo_proceso": "7207-1765-LPU23",
+   "etapa": "preadjudicacion",
+   "monto_total": 3750000.0,
+   "firmas": [
+    {
+     "nombre": "Vexmel SRL",
+     "rol": "preadjudicada",
+     "cuit": 30715416537
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 738434,
+  "nombre": "Contratación Menor / Adjudicación  N° 1566/DGAR/23",
+  "texto": "MINISTERIO DE EDUCACIÓN  \n \nDIRECCIÓN GENERAL DE ADMINISTRACIÓN DE RECURSOS  \n \nAdjudicación - adquisición de equipos y herramental destinados a integrar el \nentorno formativo de las ofertas educativas - Contratación Menor N° \n7192-1566-CME23  \n \nEX Nº 17.538.135-GCABA-DGGALV/23  \nDisposición Nº 336-GCABA-DGAR/23  \nProceso BAC Contratación Menor Nº 7192-1566-CME23  \nRubro comercial: adquisición de equipos y herramientas para automotores  \nObjeto  de  la  contratación:  tramita  la  adquisición  de  equipos  y  herramental. \nFirma adjudicada: Laurence Javier Druscovich (CUIT: 20-14851583-3)  \nRenglón Nº 1 - cantidad: 1 - precio unitario: $ 560617,20 - precio total: $ 560617,20  \nRenglón Nº 2- cantidad: 2 - precio unitario: $ 99909,69 - precio total: $ 199819,38  \nRenglón Nº 3- cantidad: 1 - precio unitario: $ 358800,00 ",
+  "esperado": {
+   "codigo_proceso": "7192-1566-CME23",
+   "etapa": "adjudicacion",
+   "monto_total": null,
+   "firmas": [
+    {
+     "nombre": "Laurence Javier Druscovich",
+     "rol": "adjudicada",
+     "cuit": 20148515833
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 734652,
+  "nombre": "Licitación Pública / Preadjudicación  N° 333/DGSACIU/23",
+  "texto": "JEFATURA DE GABINETE DE MINISTROS  \n  \nDIRECCIÓN GENERAL SISTEMAS DE ATENCIÓN CIUDADANA  \n  \nPreadjudicación - Licitacion Pública BAC N° 2051-0333-LPU23  \n  \nE.E. Nº 09.99.15.41--MGEYA-DGCCYA/2023  \nLicitacion Pública BAC N° 2051-0333-LPU23 bajo la modalidad de orden de  \nCompra abierta  \nRubro comercial: Servicios  \nObjeto  de  la  contratación:    Servicio  de  desarrollo,  diseño,  modelado  3D  y \nmantenimiento de una experiencia inmersiva en metaverso  \nFirmas preadjudicadas:  \nSistemas Globales S.A.  \nRenglón:1- Cantidad: 4 - precio unitario: $ 9.548.547,50 -precio total: : $ 38.194.190,00  \nRenglón:2- Cantidad:500- precio unitario: $ 12.944,00-precio total: $ 6.472.000,00  \nRenglón:3- Cantidad:8- precio unitario: $ 1.548.561,00-precio total: $ 12.388.488,00  \nTotal preadjudicado por la suma de pesos cincuenta y siete millones cincuenta y \ncuatro mil seiscientos setenta y ocho con 00/100 ($57.054.678,00).  \nEncuadre legal: art. 32, 33, 41 y art. 100 y 101 Ley 2095  \nFundamento de la preadjudicacion: por ser la oferta mas conveniente  \nLugar de exhibición del acta: www.buenosairescompras.gob.ar  \n  \nMartín Lepera \nDirector General \n",
+  "esperado": {
+   "codigo_proceso": "2051-0333-LPU23",
+   "etapa": "preadjudicacion",
+   "monto_total": 57054678.0,
+   "firmas": [
+    {
+     "nombre": "Sistemas Globales S.A.",
+     "rol": "preadjudicada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 672393,
+  "nombre": "Contratación Menor / Adjudicación  N° 2492/HMIRS/22",
+  "texto": "MINISTERIO DE SALUD \n \nHOSPITAL MATERNO INFANTIL \"RAMÓN SARDA\" \n \nAdquisición de insumos - Contratación Menor N° 435-2492-CME22 \n \nExpediente N° 29.260.181 -GCABA –HMIRS/22 \nContratación Menor BAC 435- 2492 -CME22. \nRubro comercial: Salud. \nObjeto de la contratación: adquisición de insumos para el servicio de farmacia \nAutorizante: Disposición N° 106 /HMIRS/2022 \nFirma Adjudicada:  \nDrogueria Farmatec S.A.  \nRenglón  1: cantidad  80 Unidad  - precio unitario: $ 469,73.- precio total: $ 37.578,40  \nRenglón  2: cantidad  15 Unidad  - precio unitario: $ 829,22.- precio total: $ 12.438,30  \nLegal: LEY 2095 ART. 108.  \nTotal adjudicado: Pesos Setenta y cuatro mil ochocientos noventa y tres con 30/100 ($ \n74.893,30)  \nVencimiento validez de oferta: 24/11/22  \n  \nRubén Almada \nSubdirector Medico \n",
+  "esperado": {
+   "codigo_proceso": "435-2492-CME22",
+   "etapa": "adjudicacion",
+   "monto_total": 74893.3,
+   "firmas": [
+    {
+     "nombre": "Drogueria Farmatec S.A.",
+     "rol": "adjudicada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 760183,
+  "nombre": "Licitación Pública / Adjudicación  N° 1060/HBR/23",
+  "texto": "MINISTERIO DE SALUD \n \nHOSPITAL GENERAL DE AGUDOS \"DR. BERNARDINO RIVADAVIA\" \n  \nAdjudicación - Licitación Publica Nº 431-1060-LPU23  \n \nEX 2023-23825046-GCABA-HBR  \nLicitación Publica Nº 431-1060-LPU23  \nAutorizante: DISFC-2023-199-GCABA-HBR  \nRubro comercial: Salud.  \nObjeto  de  la  contratación:  Adquisición  de  Equipamiento  Medico,  para  la  nueva \nGuardia y consultorios.-  \nServicio: Dpto  Emergencias.-.  \nFirma adjudicada:  \nQuiro-Med S.A.C.I.F.  \nNúmero de Orden de Compra: 431-12341-OC23  \nRenglón 2- cantidad: 1 unid. Precio unitario: $ 66.236,00- Precio total: $ 66.236,00  \nRenglón 4- cantidad: 7 unid. Precio unitario: $ 116.319,00- Precio total: $ 814.233,00  \nRenglón 6- cantidad: 2 unid. Precio unitario: $ 248.977,00- Precio total: $ 497.954,00  \nCovidien Argentina S.A. \nNúmero de Orden de Compra: 431-12342-OC23  \nRenglón 5-cantidad: 7 unid. Precio unitario: $ 260.807,63- Precio total: $ 1.825.653,41  \nTotal Adjudicado: Pesos: tres millones doscientos cuatro mil setenta y seis con 41/100. \n($3.204.076,41).  \n \nEduardo Fernández Rostello \nDirector Medico \n",
+  "esperado": {
+   "codigo_proceso": "431-1060-LPU23",
+   "etapa": "adjudicacion",
+   "monto_total": 3204076.41,
+   "firmas": [
+    {
+     "nombre": "Quiro-Med S.A.C.I.F.",
+     "rol": "adjudicada"
+    },
+    {
+     "nombre": "Covidien Argentina S.A.",
+     "rol": "adjudicada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 773346,
+  "nombre": "Licitación Pública / Adjudicación  N° 1329/DGADCYP/23",
+  "texto": "MINISTERIO DE SALUD \n \nAdjudicación - Licitación Pública N° 401-1329-LPU23  \n  \nE.E. N° 30.441.492-GCABA-DGADCYP/2023     \nLicitación Pública N° 401-1329-LPU23  \nRubro comercial: Salud  -  Servicio de Mantenimiento de Equipos Médicos.   \nObjeto de la contratación:  \"Servicio de Mantenimiento Preventivo y Correctivo de \nequipos marca Stryker\", por el plazo de doce (12) meses (6 BIMESTRES).  \nActo Administrativo de Adjudicación: Disposición N° 272-GCABA-DGADCYP/23  \nFirma Adjudicataria:  \nGEDOX S.A. (CUIT N° 30-71093788-1)     \nRenglón 1.1 -  Unidad: Unidad - Cantidad: 6 - Precio Unitario: $ 354.812,21.- Precio  \nTotal: $ 2.128.873,26.-  \nRenglón 2.1 -  Unidad: Unidad - Cantidad: 6 - Precio Unitario: $ 301.950,74.- Precio  \nTotal: $ 1.811.704,44.-    \nRenglón 3.1  -    Unidad: Unidad -  Cantidad: 6 -  Precio Unitario: $ 52.060,40.-  Precio  \nTotal: $ 312.362,40.-    ",
+  "esperado": {
+   "codigo_proceso": "401-1329-LPU23",
+   "etapa": "adjudicacion",
+   "monto_total": null,
+   "firmas": [
+    {
+     "nombre": "GEDOX S.A.",
+     "rol": "adjudicada",
+     "cuit": 30710937881
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 742861,
+  "nombre": "Licitación Pública / Adjudicación  N° 923/HBR/23",
+  "texto": "MINISTERIO DE SALUD \n  \nAdjudicación - Licitación Publica Nº 431-0923-LPU23 \n \nEX 2023-21221571-GCABA-HBR  \nLicitación Publica Nº 431-0923-LPU23 \nDisposición Aprobatoria. DISFC-2023-202-GCABA-HBR  \nRubro comercial: Salud \nObjeto de la contratación: Adquisición de Suturas \nServicio: Dpto Quirúrgico.-  \nFirma adjudicada:  \nNúmero de Orden de Compra: 431-12860-OC23  \nCirugía Argentina S.A.  \nRenglón Nº1- cantidad: 500 unid. Precio unitario: $1.135,00- Precio total: $ 567.500,00  \nRenglón Nº2- cantidad: 100 unid. Precio unitario: $1.292,00- Precio total: $ 129.200,00  \nNúmero de Orden de Compra: 431-12861-OC23  \nCovidien Argentina S.A.  \nRenglón Nº6- cantidad: 3984 unid. Precio unitario: $191,18- Precio total: $ 761.661,12  \nNúmero de Orden de Compra: 431-12862-OC23  \nCardiopack Argentina S.A.  \nRenglón Nº10- cantidad: 72 unid. Precio unitario: $444,00- Precio total: $ 31.968,00  \nRenglón Nº16- cantidad",
+  "esperado": {
+   "codigo_proceso": "431-0923-LPU23",
+   "etapa": "adjudicacion",
+   "monto_total": 1490329.12,
+   "firmas": [
+    {
+     "nombre": "Cirugía Argentina S.A.",
+     "rol": "adjudicada"
+    },
+    {
+     "nombre": "Covidien Argentina S.A.",
+     "rol": "adjudicada"
+    },
+    {
+     "nombre": "Cardiopack Argentina S.A.",
+     "rol": "adjudicada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 529614,
+  "nombre": "Licitación Pública / Preadjudicación  N° 1962/HGADS/19",
+  "texto": "MINISTERIO DE SALUD \n \nHOSPITAL GENERAL DE AGUDOS “DONACIÓN FRANCISCO SANTOJANNI” \n \nPreadjudicación - Licitación Pública Nº 434-1962-LPU19 \n \nExpediente 39289858/GCABA-HGADS/2019 \nLicitación Pública Nº 434-1962-LPU19 \nDictamen de Evaluación Nº 1962/2020  \nServicio: Farmacia   \nObjeto de la Contratación: Adquisición de Clip de Titanio y Sistema de Digitalizacion \npara monitor de Pic.  \nFundamentación: Se preadjudica Renglones 1 y 2 por ser oferta más conveniente, \najustarse a lo solicitado  según artículo 110 de la Ley 2095 (texto consolidado Ley \n6017) y encontrarse dentro de los precios de referencia.  \nFirmas preadjudicadas: \nDrogueria Family S.A   \nRenglón:  1-  Cantidad:  1000  unidad  -  precio  unitario:  $  370,00  -  precio  total:  $ \n370.000,00.-  \nFeraval S.A.   \nRenglón:  2-  Cantidad:  60  unidad  -  precio  unitario:  $  2.390,00  -  precio  total:  $ \n143.400,00.-  \nLaboratorios Richet S.A.   \nRenglón:  2-  Cantidad:  440  unidad  -  precio  unitario:  $  2.590,00  -  precio  total:  $ \n1.139.600,00.-  \nVencimiento de las ofertas: 29/6/2020  \nMonto total preadjudicado: $ 1.653.000,00.-  \nConsultas: Pilar 950 -E.P. Oficina de Compras    \nPortal BAC - https://www.buenosairescompras.gov.ar/  \n \nGabriel Carqueijeda Roman \nSubdirector Medico \n",
+  "esperado": {
+   "codigo_proceso": "434-1962-LPU19",
+   "etapa": "preadjudicacion",
+   "monto_total": 1653000.0,
+   "firmas": [
+    {
+     "nombre": "Drogueria Family S.A",
+     "rol": "preadjudicada"
+    },
+    {
+     "nombre": "Feraval S.A.",
+     "rol": "preadjudicada"
+    },
+    {
+     "nombre": "Laboratorios Richet S.A.",
+     "rol": "preadjudicada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 772935,
+  "nombre": "Licitación Pública / Preadjudicación  N° 9/ERSP/23",
+  "texto": "ENTE  UNICO  REGULADOR  DE  LOS  SERVICIOS  PUBLICOS  DE  LA  CIUDAD \nAUTONOMA DE BUENOS AIRES  \n  \nPreadjudicación - Licitación Pública Nº 9/ERSP/2023 \n \nEX-2023-00010051-GA-EURSPCABA  \nLicitación Pública Nº 09/ERSP/2023  \nActa de evaluación de ofertas N°21/2023, de fecha 28 de noviembre de 2023  \nClase: Etapa única  \nRubro comercial: Seguridad  \nObjeto de la contratación: Servicio de vigilancia para las oficinas del Ente.   \nOferentes evaluados:   \nAIRSEC SA (CUIT 33-65283080-9)  \nMCM SECURITY SRL (CUIT 33-70921700-9)  \nFirma preadjudicada:  \nMCM Security SRL (CUIT 33-70921700-9)  \nRenglón 1 - Item 1 - Cantidad 6, Unidad de medida: mes, Precio Unitario: hora diurna \n$5.800 - hora nocturna $ 580 - hora día feriado $ 5800 - Total: $ 27.965.280.-  \nTotal Monto Preadjudicado: pesos veintisiete millones novecientos sesenta y cinco \nmil doscientos ochenta ($27.965.280.-).  \nMiembros de la Comisión de Preadjudicaciones firmantes del Acta: Soledad Monzón \nEgaña (DNI 18.449.426), María Sandra Guzzo (DNI 16.497.723) y Melany Denise \nMáscolo (DNI 37.113.901). \nVencimiento validez  de oferta:  Diez (10) días a contar de la fecha del acto de \napertura.  \nLugar de exhibición del acta:  Departamento de Compras y Contrataciones.  \n \nFlorencia Parietti \nGerente de Administración \n",
+  "esperado": {
+   "codigo_proceso": null,
+   "tipo_proc": "LPU",
+   "etapa": "preadjudicacion",
+   "monto_total": 27965280.0,
+   "n_ofertas": 2,
+   "unica_oferta": false,
+   "firmas": [
+    {
+     "nombre": "AIRSEC SA",
+     "rol": "oferente",
+     "cuit": 33652830809
+    },
+    {
+     "nombre": "MCM Security SRL",
+     "rol": "preadjudicada",
+     "cuit": 33709217009
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 532397,
+  "nombre": "Licitación Pública / Preadjudicación  N° 1968/DGCYC/19",
+  "texto": "MINISTERIO DE HACIENDA Y FINANZAS \n \nDIRECCIÓN GENERAL DE COMPRAS Y CONTRATACIONES \n \nPreadjudicación - Licitación Pública Nº 623-1968-LPU19 \n \nExpediente Nº 39.347.894/GCABA-DGCYC/2019 \nLicitación Pública Nº 623-1968-LPU19 \nObjeto de la Contratación:  Convenio Marco -  Adquisición de Colchones y Afines para \nuso de las Reparticiones del Gobierno de la Ciudad Autónoma de Buenos Aires.  \nObservaciones:  \nSe  reúne    la  Comisión  de  Evaluación  de  Ofertas  de  la  Licitación  de  referencia, \ndesignada a tal fin mediante Disposición Nº 249/DGCYC/20, a fin de proceder con la \nevaluación  de  las  presentaciones  efectuadas    por  las  empresas:  Roberto  Oscar \nSchvarz,  A y M D ESPOSITO S.R.L., EXSA S.R.L. y Artful S.A.  \nA  tal  efecto,  habiendo  realizado  el  pertinente  análisis  de  los  aspectos  formales, \nadministrativos,  técnicos  y  económicos,  esta  Comisión  de  Evaluación  de  Ofertas \nconsigna la siguiente recomendación.  \nNo se considera:  \nRoberto  Oscar  Schvarz    (OF.  1):    Renglón    Nro.    23,    por  no  ajustarse  a  los \nrequerimientos del Pliego de Especificaciones Técnicas.  \nA Y M D ESPOSITO S.R.L. (OF. 2): por no cumplir con lo requerido por los Artículos \n13, 16 y 17 del Pliego de Bases y Condiciones Particulares.  \nEXSA S.R.L. (OF. 3): la totalidad de la oferta, por  no encontrarse inscripto al momento \nde la preadjudicación.",
+  "esperado": {
+   "codigo_proceso": "623-1968-LPU19",
+   "etapa": "preadjudicacion",
+   "monto_total": null,
+   "n_ofertas": 4,
+   "firmas": [
+    {
+     "nombre": "Roberto Oscar Schvarz",
+     "rol": "desestimada"
+    },
+    {
+     "nombre": "A y M D ESPOSITO S.R.L.",
+     "rol": "desestimada"
+    },
+    {
+     "nombre": "EXSA S.R.L.",
+     "rol": "desestimada"
+    },
+    {
+     "nombre": "Artful S.A.",
+     "rol": "oferente"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 775149,
+  "nombre": "Licitación Pública / Preadjudicación  N° 16/DGA/23",
+  "texto": "TRIBUNAL SUPERIOR DE JUSTICIA \n \nDIRECCIÓN GENERAL DE ADMINISTRACIÓN \n \nPreadjudicación - Servicio anual de mantenimiento del sistema de climatización \ny sistema de extracción de aire, instalado y en funcionamiento, de la sede del \nTribunal  sita  en  Cerrito  760; y limpieza de 88 (ochenta y ocho) serpentinas - \nLicitación Pública N° 16/23 \n \nEX-2023-32287-TSJ-DCOMPRAS \nDictamen de la Comisión Evaluadora de Ofertas \nTipo de acto: Licitación Pública en etapa única \nActa de preadjudicación del 6 de diciembre de 2023 (AT-2023-40295-TSJ-DMEAYA) \nObjeto  de  la  contratación:  Servicio  anual  de  mantenimiento  del  sistema  de \nclimatización y sistema de extracción de aire. \nLicitación Fracasada por inexistencia de ofertas convenientes \nFundamentación  de  la  preadjudicación:  De  las  ofertas  presentadas, \ncorrespondientes a las firmas TERMAIR SA, AASC SA y TECNARAN SRL, ninguna \nresulta conveniente debido a su cotización, que en todos los casos supera en forma \nholgada la previsión presupuestaria. \nCEO: Benarroch - Sbiroli - Quinterno \nLugar de exhibición de las actas: www.tsjbaires.gob.ar. \n \nRoque Pannunzio \nDirector General \n",
+  "esperado": {
+   "codigo_proceso": null,
+   "etapa": "preadjudicacion",
+   "monto_total": null,
+   "n_ofertas": 3,
+   "fracasada": true,
+   "firmas": [
+    {
+     "nombre": "TERMAIR SA",
+     "rol": "oferente"
+    },
+    {
+     "nombre": "AASC SA",
+     "rol": "oferente"
+    },
+    {
+     "nombre": "TECNARAN SRL",
+     "rol": "oferente"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 750132,
+  "nombre": "Licitación Pública / Preadjudicación  N° 885/DGAYCON/23",
+  "texto": "MINISTERIO DE JUSTICIA Y SEGURIDAD \n \nDIRECCIÓN GENERAL ADQUISICIONES Y CONTRATACIONES \n  \nPreadjudicación - Licitación Pública N° 2900-0885-LPU23 \n \nEX-2023-01301870-GCABA-DGAYCON \nLicitación Pública N° 2900-0885-LPU23 \nRubro comercial: Seguridad. \nObjeto de la contratación: Licitación Pública para la contratación de un servicio de \nmantenimiento de pórticos con lectura de patentes bajo la modalidad de orden de compra abierta. \nOfertas Pre-adjudicadas: \nDANAIDE S.A.: Para los renglones Nros 1 y 3 por un monto total pesos seiscientos \nveinticuatro  millones  cuarenta  y  seis  mil  novecientos  cuarenta  con  00/100  ($ \n624.046.940,00).  \nAMERICAN TRAFFIC S.A.: Para el renglón N°2 por un monto total de pesos ciento \ncuarenta  y  tres  millones  quinientos  veintiocho  mil  quinientos  ochenta  y  siete  con \n68/100 ($ 143.528.587,68). \nMonto  total  preadjudicado:  Pesos  setecientos  sesenta  y  siete  millones  quinientos \nsetenta y cinco mil quinientos veintisiete con 68/100 ($ 767.575.527,68).  \nPlazo de impugnación: dentro del plazo de tres (3) días a partir del día siguiente.  \nFundamento de la pre-adjudicación: por resultar las ofertas más convenientes a los \nintereses del GCABA.  \nLugar de exhibición del acta: www.buenosairescompras.gob.ar \n  \nAlejandro Daniel Puglia \nDirector General \n",
+  "esperado": {
+   "codigo_proceso": "2900-0885-LPU23",
+   "etapa": "preadjudicacion",
+   "monto_total": 767575527.68,
+   "firmas": [
+    {
+     "nombre": "DANAIDE S.A.",
+     "rol": "preadjudicada",
+     "monto": 624046940.0
+    },
+    {
+     "nombre": "AMERICAN TRAFFIC S.A.",
+     "rol": "preadjudicada",
+     "monto": 143528587.68
+    }
+   ]
+  }
+ }
+]

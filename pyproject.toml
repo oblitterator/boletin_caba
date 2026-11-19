@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "monitor-licitaciones-caba"
+version = "2.2.0"
+description = "Boletín Oficial CABA -> Postgres -> señales de contratación pública"
+requires-python = ">=3.10"
+dependencies = [
+  "psycopg[binary]>=3.1",
+  "requests>=2.31",
+  "pdfplumber>=0.11",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+notebooks = ["pandas>=2", "matplotlib>=3.8", "jupyterlab>=4", "nbstripout>=0.7"]
+
+[project.scripts]
+monitor-licitaciones = "monitor_licitaciones.cli:main"
+
+[tool.setuptools]
+packages = ["monitor_licitaciones"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

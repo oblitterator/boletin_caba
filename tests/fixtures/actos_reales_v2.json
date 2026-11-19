@@ -1,0 +1,118 @@
+[
+ {
+  "id_norma": 790326,
+  "nombre": "Contratación Menor / Adjudicación  N° 120/HSL/24",
+  "texto": "MINISTERIO DE SALUD \n \nHOSPITAL OFTALMOLÓGICO SANTA LUCÍA  \n  \nAdjudicación - Contratación Menor N° 433-0120-CME24 \n \nExpediente Nº 04780228 -GCBA-HSL-2024  \nContratación Menor 433-0120-CME24 \nEtapa única.  \nRubro Comercial: Salud.  \nObjeto  de  la  Contratación:  \"Adquisición  de  Hemogramas  para  el  Servicio  de \nLaboratorio\"  \n1. Se comunica que según Disposición firma conjunta Nº4/HSL/2024, ha resultado la  \nadjudicación de la contratación de referencia de la siguiente manera:  \nOfertas Adjudicadas  \nDrosfat SRL  \nRenglón 1: Cant.  5000u.   P. UNIT. $2000,00.- P. TOTAL $10.000.000,00  \nTotal $ 10.000.000,00 (pesos diez millones)  \nTotal, de la adjudicación total $ $10.000.000,00 (pesos diez millones) \n  \nMarta Inés Starcenbaum Bouchéz \nDirectora  \n \nJulia Alejandra Larrosa \nGerente Operativa de la Gerencia  \nOperativa y Gestión Administrativa  \nEconómica Financiera  \n \n \nInicio: 27/02/2024   Vence: 27/02/2024 \n",
+  "esperado": {
+   "codigo_proceso": "433-0120-CME24",
+   "etapa": "adjudicacion",
+   "monto_total": 10000000.0,
+   "firmas": [
+    {
+     "nombre": "Drosfat SRL",
+     "rol": "adjudicada",
+     "monto": 10000000.0
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 789597,
+  "nombre": "Licitación Pública / Preadjudicación  N° 53/HGAPP/24",
+  "texto": "MINISTERIO DE SALUD \n \nHOSPITAL GENERAL DE AGUDOS \"PARMENIO T. PIÑERO\" \n  \nPreadjudicación - Licitación Pública Nº 426-0053-LPU24 \n \nEX-2024-04448787-GCABA-HGAPP  \nObjeto: Adquisición de tubos para extracción con equipamiento en préstamo. \nRubro: Salud  \nObservaciones: Reunida  la Comisión  de Evaluación  de  Ofertas  de la licitación de \nreferencia  designada  para  tal  fin  mediante  Disposición  N°  174/HGAPP/07  con  la \npresencia  del  Subdirector  médico  Dr.  Roberto  Pereyra,  el  Jefe  del  Servicio  de \nLaboratorio Central  Dra. Daniela Ballester y el Jefe  de Compras y Contrataciones  Sr. \nErnesto  Ángel    Lodise    a  fin  de  proceder  con  la  evaluación  de  la  presentación  \nefectuada por las  empresas: Diego Hernán Juan y Quimica Erovne S.A.;  \nA tal efecto, habiéndose efectuado el pertinente análisis de los aspectos formales, \nlegales, económicos y forma de cotización, esta Comisión de Evaluación de Ofertas \naconseja. \nFundamentación: \nSe aconseja adjudicar a favor de: QUIMICA EROVNE S.A. (Renglones Nros. 1 al 10) \nen la suma total de pesos: ciento cuatro millones cuarenta y nueve mil quinientos con  \n00/100 ($104.049.500,00)  \nTotal preadjudicado: pesos: ciento cuatro millones cuarenta y nueve mil quinientos \ncon 00/100 ($104.049.500,00).  \nSe desestima lo ofertado por: DIEGO HERNÁN JUAN (Renglones: 1, 3, 6, 11 y 12) \nsegún acta de asesoramiento técnico. \nLugar de exhibición del acta: Portal de Buenos Aires Compras a partir del 23/03/24  \nPeriodo de impugnación: Inicia: 23/02/24 - Vence: 27/02/24  \n  \nMarino Daniel Rivero \nDirector \n",
+  "esperado": {
+   "codigo_proceso": "426-0053-LPU24",
+   "etapa": "preadjudicacion",
+   "monto_total": 104049500.0,
+   "n_ofertas": 2,
+   "firmas": [
+    {
+     "nombre": "QUIMICA EROVNE S.A.",
+     "rol": "preadjudicada"
+    },
+    {
+     "nombre": "Diego Hernán Juan",
+     "rol": "desestimada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 747030,
+  "nombre": "Licitación Pública / Preadjudicación  N° 1199/HGAZ/23",
+  "texto": "MINISTERIO DE SALUD \n \nHOSPITAL GENERAL DE AGUDOS \"DR. ABEL ZUBIZARRETA\"  \n \nPreadjudicación - Licitación Pública BAC Nº 441-1199-LPU23 \n \nEX-2023-27071468-GCABA-HGAZ  \nLicitación Pública BAC N° 441-1199-LPU23  \nDictamen de Evaluación de Ofertas BAC de fecha 23 de agosto de 2023.  \nRubro comercial: Salud.  \nObjeto de la contratación: Adquisición de insumos Anatomía Patológica.  \nFundamento de la Preadjudicación:  Oferta  más  conveniente  según Art. 102,  Ley  \n2095.  \nLugar de exhibición del acta: División Compras y Contrataciones, sito en Nueva \nYork 3952 y en el Portal Oficial de Compras (BAC)  \nFirmas preadjudicadas:  \nRaul Angel Lalanne:  \nRenglón: 1 - cantidad: 1 u. - precio unitario: $ 36.200,00 - precio total: $ 36.200,00  \nRenglón: 4 - cantidad: 6000 u. - precio unitario: $ 11,50 - precio total: $ 69.000,00  \nRenglón: 5 - cantidad: 4 u. - precio unitario: $ 55.000,00 - precio total: $ 220.000,00  \nRenglón: 10 - cantidad: 30 u. - precio unitario: $ 5.000,00 - precio total: $ 150.000,00  \nRenglón: 11 - cantidad: 50 u. - precio unitario: $ 6.200,00 - precio total: $ 310.000,00  \nRenglón: 12 - cantidad: 7000 u. - precio unitario: $ 18,00 - precio total: $ 126.000,00  \nRenglón: 13 - cantidad: 4 u. - precio unitario: $ 20.134,00 - precio total: $ 80.536,00  \nRenglón: 14 - cantidad: 2 u. - precio unitario: $ 13.600,00 - precio total: $ 27.200,00  \nRenglón: 17 - cantidad: 140 u. - precio unitario: $ 4.750,00 - precio total: $ 665.000,00  \nRenglón: 19 - cantidad: 6 u. - precio unitario: $ 20.900,00 - precio total: $ 125.400,00  \nQuímica Córdoba SA:  \nRenglón: 2 - cantidad: 140 u. - precio unitario: $ 3.650,00 - precio total: $ 511.000,00  \nRenglón: 3 - cantidad: 6 u. - precio unitario: $ 5.496,63 - precio total: $ 32.979,78  \nLaboratorios Gaudium SRL:  \nRenglón: 16 - cantidad: 1000 u. - precio unitario: $ 32,00 - precio total: $ 32.000,00  \nEGLIS SA:  \nRenglón: 18 - cantidad: 3000 u. - precio unitario: $ 56,11 - precio total: $ 168.330,00  \nTotal:  $  2.553.645,78  (pesos  dos millones quinientos cincuenta y tres mil seiscientos \ncuarenta y cinco con 78/100)  \n  \nLilia Borelli \nDirectora Médica \n \nFacundo Sandovares \nGerente Operativo \n \nInicia: 28-8-2023   Vence: 28-8-2023 \n",
+  "esperado": {
+   "codigo_proceso": "441-1199-LPU23",
+   "etapa": "preadjudicacion",
+   "monto_total": 2553645.78,
+   "firmas": [
+    {
+     "nombre": "Raul Angel Lalanne",
+     "rol": "preadjudicada",
+     "monto": 1809336.0
+    },
+    {
+     "nombre": "Química Córdoba SA",
+     "rol": "preadjudicada",
+     "monto": 543979.78
+    },
+    {
+     "nombre": "Laboratorios Gaudium SRL",
+     "rol": "preadjudicada",
+     "monto": 32000.0
+    },
+    {
+     "nombre": "EGLIS SA",
+     "rol": "preadjudicada",
+     "monto": 168330.0
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 794586,
+  "nombre": "Licitación Pública / Preadjudicación  N° 216/DGABS/24",
+  "texto": "MINISTERIO DE SALUD \n \nDIRECCION GENERAL DE ABASTECIMIENTO EN SALUD \n \nPreadjudicación - Adquisición de Medicamentos de Uso Cardiológico - Licitación \nPública N° 401-0216-LPU24 \n \nEX-2024-07587763-GCABA-DGABS  \nProceso BAC clase: Licitación Pública  \nActa de Pre adjudicación BAC N° 401-0216-LPU24  \nRubro comercial: Salud  \nObjeto de la contratación: Adquisición de Medicamentos de Uso Cardiológico, SNC, \nAntimicótico etc.. -  \nFirma/s pre adjudicada/s:  \nFERAVAL S.A.  \nRenglón:1.1-Cantidad  6000  Unidad-Precio  unitario  $  27.225,00-Total:  $ \n163.350.000,00  \nLABORATORIOS RICHET S.A.  \nRenglón:2.1-Cantidad 30000 Unidad-Precio unitario $ 1.398,90 -Total: $ 41.967.000,00  \nNo se consideran  \nFarmed S.A.: Por encontrarse desactualizado en el registro del proveedor y no cumplir \ncon el Art. 10 del PBCP  \nPro  Med  Internacional  S.A.:  Por  encontrarse  desactualizado  en  el  registro  del \nproveedor, de acuerdo con lo asesorado técnicamente y no cumplir con el Art. 10 del \nPBCP  \nPrecio  total  de  la  Preadjudicación  final:  Doscientos  cinco  millones  trescientos \ndiecisiete mil ($ 205.317.000,00).-  \nEncuadre legal: Art. 102° Ley de la Ley 2095, (Texto consolidado Ley 6.588) y su \nreglamentación. -  \nLugar  de  exhibición  del  acta:  Dirección  General  de  Abastecimiento  en  Salud \n(DGABS) - Av. Rivadavia 524 4to. Piso. \n \nCarlos F. Servente \nGerente Operativo \n \nMaria Belén Carjuzaa \nDirectora General \n",
+  "esperado": {
+   "codigo_proceso": "401-0216-LPU24",
+   "etapa": "preadjudicacion",
+   "monto_total": 205317000.0,
+   "firmas": [
+    {
+     "nombre": "FERAVAL S.A.",
+     "rol": "preadjudicada",
+     "monto": 163350000.0
+    },
+    {
+     "nombre": "LABORATORIOS RICHET S.A.",
+     "rol": "preadjudicada",
+     "monto": 41967000.0
+    },
+    {
+     "nombre": "Farmed S.A.",
+     "rol": "desestimada"
+    },
+    {
+     "nombre": "Pro Med Internacional S.A.",
+     "rol": "desestimada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 789402,
+  "nombre": "Contratación Menor / Adjudicación  N° 240/HNJTB/24",
+  "texto": "MINISTERIO DE SALUD \n \nHOSPITAL NEUROPSIQUIATRICO “DR. JOSE T. BORDA” \n \nAdjudicación - Contratación Menor N° 413-0240-CME24   \n \nExpediente Nº 2024-06288201-GCABA-HNJTB  \nContratación Menor N° 413-0240-CME24   \nClase: Etapa única  \nRubro Comercial: Salud   \nObjeto de la contratación provisión de material descartable p/Laboratorio: Tubos  \nActo Administrativo: DISFC N° 10/HNJTB/2024  \nFirma Adjudicada   \nDocumento Contractual:  413-0952-OC24 -   \nTUBLOOD S.A.  \nRENG      CANTIDAD     PRECIO UNITARIO    PRECIO TOTAL  \n1                 50                   $ 34.498,51                  $ 1.724.925,50  \nSon  pesos:      un  millón  setecientos  veinticuatro  mil  novecientos  veinticinco  con \ncincuenta centavos  \nConsulta del dictamen: A través del Sitio Web BAC  \nwww.buenosairescompras.gov.ar   \n \nDaniel Osvaldo Cichello \nDirector \n \nRoberto L. Romero \nGerente Operativo \n",
+  "esperado": {
+   "codigo_proceso": "413-0240-CME24",
+   "etapa": "adjudicacion",
+   "monto_total": 1724925.5,
+   "firmas": [
+    {
+     "nombre": "TUBLOOD S.A.",
+     "rol": "adjudicada"
+    }
+   ]
+  }
+ }
+]

@@ -1,8 +1,0 @@
-requests
-pandas
-deltalake
-pdfplumber
-python-Levenshtein
-fuzzywuzzy
-numpy
-tqdm

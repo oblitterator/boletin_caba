@@ -1,0 +1,189 @@
+[
+ {
+  "id_norma": 728695,
+  "nombre": "Contratación Menor / Adjudicación  N° 805/DGADCYP/23",
+  "texto": "MINISTERIO DE SALUD \n \nAdjudicación - Adquisición de Gabinete Tótem y táctiles - Contratación Menor N° \n401-0805-CME23 \n \nEX-2023-11.817.298-GCABA-DGADCYP \nProcedimiento Administrativo: Contratación Menor N° 401-0805-CME23  \nRubro comercial: Dispositivos de Entrada / salida y Memoria.  \nObjeto de la contratación: \"Adquisición de Gabinete Tótem y táctiles\".  \nActo Administrativo de Adjudicación: Resolución N° 304-GCABA-SSASS/23  \nFirma Adjudicataria: \nEXO S.A. (CUIT Nº 30-57960755-2)  \nMonto  total  de  la  Adjudicación:  PESOS  DOS  MILLONES  OCHOCIENTOS \nSESENTA Y CINCO MIL ($2.865.000.-).  \nFundamento  de  la  adjudicación:  los  Artículos  102 de la Ley Nº 2095.  \n \nMónica C. González Biondo \nGerente Operativa Compras y Contrataciones \n",
+  "esperado": {
+   "codigo_proceso": "401-0805-CME23",
+   "etapa": "adjudicacion",
+   "monto_total": 2865000.0,
+   "firmas": [
+    {
+     "nombre": "EXO S.A.",
+     "rol": "adjudicada",
+     "cuit": 30579607552
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 710055,
+  "nombre": "Contratación Directa / Adjudicación  N° 214/HGNRG/23",
+  "texto": "MINISTERIO DE SALUD \n \nAdjudicación - Contratación Directa Nº 420-0214-CDI23 \n \nEX-2023-08271004-GCABA-HGNRG  \nContratación Directa Nº 420-0214-CDI23 \nObjeto: Adquisición de clavo endomedular pediátrico \nRepartición destinataria: Hospital Gral de Niños Ricardo Gutierrez \nNorma autorizante: DISFC-2023-52-HGNRG   \nFirmas adjudicadas:  \nCrosmed S.A.  \nMonto adjudicado: Pesos cuatrocientos treinta mil con 00/100 ($ 430.000,00)  \nTotal Preadjudicado: Pesos cuatrocientos treinta mil con 00/100 ($ 430.000,00) \n  \nCristina Galoppo \nDirectora Médica \n",
+  "esperado": {
+   "codigo_proceso": "420-0214-CDI23",
+   "etapa": "adjudicacion",
+   "monto_total": 430000.0,
+   "firmas": [
+    {
+     "nombre": "Crosmed S.A.",
+     "rol": "adjudicada",
+     "monto": 430000.0
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 511075,
+  "nombre": "Licitación Pública / Preadjudicación  N° 1548/HGAIP/19",
+  "texto": "MINISTERIO DE SALUD \n  \nPreadjudicación - Licitación Pública: BAC 427-1548-LPU19 \n \nExpediente electrónico N° 30715849-MGEYA-HGAIP-2019  \nLicitación Pública: BAC 427-1548-LPU19 \nFecha de apertura: 28/10/2019 a las 13:00 horas. \nRubro: Adq. de Clipadora, Trocar, Cánula y Pinza para Laparoscopia \nClinicaltech S.R.L.  \nR 1 Cant.    1 Unidad  Pcio. Unit. $ 7.645,00 $ 7.645,00  \nKifer Medical S.A.  \nR 2 Cant.    1 Unidad  Pcio. Unit. $ 31.762,50  $ 31.762,50  \nR 3 Cant.    1 Unidad  Pcio. Unit. $ 27.962,00     $ 27.962,00  \nGastrotex S.R.L.  \nR 4 Cant.    1 Unidad  Pcio. Unit. $ 55.900,00  $ 55.900,00  \nMonto Total: $ 123.269,50 (pesos ciento veintitres mil doscientos sesenta y nueve \ncon 50/100).  \nEncuadre legal: Art. 108 de la Ley N° 2.095, Decreto Reglamentario N° 168/AJG/2019.  \nVencimiento validez de la oferta: 19/02/2020.  \nObservaciones: se preadjudicó según Informe Técnico.  \nOfertas desestimadas técnicamente:  \nPam Argentina S.R.L. (Renglones 1, 2, 3 y 4)  \nClinicaltech S.R.L. (Renglones 2, 3 y 4)  \nGastrotex S.R.L. (Renglón 3)  \nKifer Medical S.A. (Renglón 2 Alt. 2)  \nOferta desestimada Administrativamente:  \nMaster Medical S.R.L. (Desactualizado por documentos vencidos)  \nLugar de exhibición del acta: A través del Sistema Buenos Aires Compras.  \nComisión Evaluadora de Ofertas: Dra. Silvia Álvarez - Sr. Oscar Varela - Dr. Ernesto \nBavio  \n  \nJosé A. Cuba \nDirector Médico \n",
+  "esperado": {
+   "codigo_proceso": "427-1548-LPU19",
+   "etapa": "preadjudicacion",
+   "monto_total": 123269.5,
+   "firmas": [
+    {
+     "nombre": "Clinicaltech S.R.L.",
+     "rol": "preadjudicada"
+    },
+    {
+     "nombre": "Kifer Medical S.A.",
+     "rol": "preadjudicada"
+    },
+    {
+     "nombre": "Gastrotex S.R.L.",
+     "rol": "preadjudicada"
+    },
+    {
+     "nombre": "Pam Argentina S.R.L.",
+     "rol": "desestimada"
+    },
+    {
+     "nombre": "Master Medical S.R.L.",
+     "rol": "desestimada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 699506,
+  "nombre": "Licitación Obra Pública / Adjudicación  N° 130/DGOPDU/22",
+  "texto": "MINISTERIO DE DESARROLLO HUMANO Y HÁBITAT  \n \nDIRECCION GENERAL DE OBRAS, PROYECTOS Y DISEÑO URBANO  \n \nAdjudicación - Licitación Obra Pública N° 10209-0130-LPU22 \n \nEX-2022-38347517-GCABA-UPEUBPCM  \nLicitación Obra Pública N° 10209-0130-LPU22 \nRubro: Construccion Polo Comercial \nActo administrativo de adjudicación: DI-2023-19-GCABA-DGOPDU de fecha 6 de \nfebrero de 2023  \nAdjudicataria:  \nALGIERI S.A. (CUIT 30-69933981-0)  \nMonto total adjudicado: pesos ciento diez millones ochocientos cuarenta y ocho mil \nquinientos cincuenta y tres con 79/100 ($110.848.553,79).  \n \nAriel Juárez \nDirector General \n",
+  "esperado": {
+   "codigo_proceso": "10209-0130-LPU22",
+   "etapa": "adjudicacion",
+   "monto_total": 110848553.79,
+   "firmas": [
+    {
+     "nombre": "ALGIERI S.A.",
+     "rol": "adjudicada",
+     "cuit": 30699339810
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 539671,
+  "nombre": "Contratación Directa / Preadjudicación  N° 1221/DGPAR/20",
+  "texto": "JEFATURA GABINETE DE MINISTROS \n \nDIRECCION GENERAL PROYECTO DE ARQUITECTURA  \n \nPreadjudicación - Contratación Directa BAC N° 2051-1221-CDI20 \n  \nE.E. Nº 20.42.31.61-MGEYA-DGCCYA/20 \nContratación Directa BAC N° 2051-1221-CDI20 \nClase: contratacion directa por especialidad  \nRubro comercial: servicios  \nObjeto  de  la  contratación    Servicios  Profesionales  Especializados  en  Auditoria \nAmbiental - Centro Argentino de Tiro Federal  \nFirma/s preadjudicada/s:  \nCooprogetti Societa Cooperativa  \nNombre de la empresa/s preadjudicada/s:  \nCooprogetti Societa Cooperativa  \nRenglón: 1 - cantidad: 1- precio unitario: $ 275.400- precio total: $ 275.400  \nTotal preadjudicado renglon 1 pesos doscientos setenta y cinco mil cuatrocientos \n00/100 ($ 275.400)  \nEncuadre legal: art. 28 inc. 4 y art. 107 Ley 2095  \nFundamento de la preadjudicación: por ser las ofertas mas convenientes  \nLugar de exhibición del acta: www.buenosairescompras.gob.ar  \n  \nRicardo C. Fernandez \nDirector General \n",
+  "esperado": {
+   "codigo_proceso": "2051-1221-CDI20",
+   "etapa": "preadjudicacion",
+   "monto_total": 275400.0,
+   "firmas": [
+    {
+     "nombre": "Cooprogetti Societa Cooperativa",
+     "rol": "preadjudicada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 664509,
+  "nombre": "Licitación Pública / Adjudicación  N° 961/ASINF/22",
+  "texto": "AGENCIA DE SISTEMA DE INFORMACIÓN  \n \nAdjudicación - Servicios en la Nube Pública Google Cloud - Licitación Pública N° \n8056-0961-LPU22 \n \nExpediente N° 23.402.215/22 \nTipo de Procedimiento de Selección: Licitación Pública N° 8056-0961-LPU22  \nClase: etapa única.  \nRubro comercial: 7130 Informática  \nObjeto de la contratación: Servicios en la Nube Pública Google Cloud  \nFirma(s) de análisis (etapa adjudicación)  \nATOS ARGENTINA S.A. - CUIT 30680121822  \nDI-2022-98-GCABA-DGIASINF  \nDOCUMENTO CONTRACTUAL N° 8056-0184-OCA22.  \nAdjudicacion:  \nOFERTA N°1- : (Renglón 1): Se Aconseja Adjudicar a favor ATOS ARGENTINA S.A. - \nCUIT 30680121822, por ser más conveniente para la Administración, cotiza la suma \ntotal de dólares estadounidenses setenta y ocho mil quinientos con 00/100 (USD \n78.500,00.-).  \nFundamentacion:  \nLa adjudicación se encuentra enmarcada en el Art. 101 y 102 de la Ley N° 2095. \n \nRodolfo Cadario \nDirector General de Infraestructura \n",
+  "esperado": {
+   "codigo_proceso": "8056-0961-LPU22",
+   "etapa": "adjudicacion",
+   "monto_total": 78500.0,
+   "moneda": "USD",
+   "firmas": [
+    {
+     "nombre": "ATOS ARGENTINA S.A.",
+     "rol": "adjudicada",
+     "cuit": 30680121822
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 690317,
+  "nombre": "Contratación Menor / Preadjudicación  N° 3579/HGARM/22",
+  "texto": "MINISTERIO DE SALUD  \n \nPreadjudicación – Contratación Menor BAC Nº 430- 3579-CME22 \n \nEX-2022- 11986164 -GCABA-HGARM \nContratación Menor BAC Nº 430- 3579-CME22 \nFecha de apertura: 7/12/2022 \nRubro Comercial: Salud \nObjeto de la Contratación: Filtros de Gas CO2 – Quirofano Central \nFirmas Preadjudicadas: \nGEDOX S.A \nRENGLON        CANTIDAD              P. UNITARIO             P. TOTAL \n1                           100 U                      $ 10.175,00          $ 1.017.500,00 \nTotal: $ 1.017.500,00 \nLegal: Ley 2095 art.101 \nTotal Preadjudicado: pesos un millon diecisiete mil quinientos ($ 1.017.500,00) \nRenglones Desiertos: (0) \nOfertas desestimadas: Necod Argentina S.R.L (Renglon 1 ) \n \nHugo Pandullo \nDirector \n",
+  "esperado": {
+   "codigo_proceso": "430-3579-CME22",
+   "etapa": "preadjudicacion",
+   "monto_total": 1017500.0,
+   "firmas": [
+    {
+     "nombre": "GEDOX S.A",
+     "rol": "preadjudicada",
+     "monto": 1017500.0
+    },
+    {
+     "nombre": "Necod Argentina S.R.L",
+     "rol": "desestimada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 773943,
+  "nombre": "Licitación Pública / Preadjudicación  N° 1774/HGNRG/23",
+  "texto": "MINISTERIO DE SALUD  \n  \nPreadjudicación - Licitación Pública Nº 420-1774-LPU23   \n \nEX-2023-40136167-GCABA-HGNRG  \nLicitación Pública Nº 420-1774-LPU23   \nClase: etapa única.  \nRubro comercial: Salud  \nObjeto  de  la  contratación:    Adquisición  de  determinaciones  de  Química  Clínica \nc/aparato logia para Lab Central  \nFirma preadjudicada:  \nTECNOLAB S.A  \nReng. 1 - cantidad 3.750 U - precio unitario $  6.690,98 - precio total $  25.091.175,00  \nTotal Preadjudicado: Pesos veinticinco millones noventa y un mil ciento setenta y cinco \n($ 25.091.175,00)  \nRenglón 2: Desierto.  \nFundamento de la preadjudicación:  Se preadjudicó de acuerdo a informe técnico. \nVencimiento validez de oferta: 10/1/2024  \n \nOscar Pablo Neira \nDirector Médico \n",
+  "esperado": {
+   "codigo_proceso": "420-1774-LPU23",
+   "etapa": "preadjudicacion",
+   "monto_total": 25091175.0,
+   "firmas": [
+    {
+     "nombre": "TECNOLAB S.A",
+     "rol": "preadjudicada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 526946,
+  "nombre": "Contratación Menor / Adjudicación  N° 439/HIFJM/20",
+  "texto": "MINISTERIO DE SALUD \n \nAdjudicación - Contratación Menor N° 423-0439-CME20   \n \nE.E. N° 07333697-GCABA-HIFJM/20  \nContratación Menor N° 423-0439-CME20   \nAutorizante: Disposición Aprobatoria N° 66-GCABA-HIFJM/20  \nClase: Etapa única.  \nRubro comercial: Salud.  \nObjeto de la contratación: Adquisición de Gas Carbónico.  \nFirma adjudicada:  \nGases Comprimido S.A  \nRenglón 1: 6 tubos - precio unitario $ 8.450,00 precio total  $ 50.700,00  \nEncuadre legal: art. 109 de la Ley N° 2095 (texto consolidado por Ley N° 6017), el \nDecreto 168/19.  \nTotal preadjudicado: pesos cincuenta mil setecientos ($ 50.700,00).  \n \nPablo J. González Montaner \nDirector Médico \n",
+  "esperado": {
+   "codigo_proceso": "423-0439-CME20",
+   "etapa": "adjudicacion",
+   "monto_total": 50700.0,
+   "firmas": [
+    {
+     "nombre": "Gases Comprimido S.A",
+     "rol": "adjudicada"
+    }
+   ]
+  }
+ },
+ {
+  "id_norma": 745524,
+  "nombre": "Licitación Pública / Preadjudicación  N° 1031/DGAYCON/23",
+  "texto": "MINISTERIO DE JUSTICIA Y SEGURIDAD \n \nPreadjudicación  -  Contratación  del  servicio  de  elaboración  y  distribución  de \ncomidas - Licitación Pública N° 2900-1031-LPU23 \n \nEX-2023-23442708-GCABA-DGAYCON.  \nTipo de Procedimiento de Selección: Licitación Pública N° 2900-1031-LPU23.  \nRubro comercial: Alimentación y Gastronomía.  \nObjeto de la contratación: Contratación del servicio de elaboración y distribución de \ncomidas  con  destino  a  cadetes.  \nOferta Preadjudicada:  \nFRIENDS FOOD S.A para los renglones 1 al 37 por un monto total de pesos diez mil \nseiscientos tres millones ciento dieciocho mil ochocientos cuarenta y uno con 60/100 \n($10.603.118.841,60).  \nMonto total preadjudicado: DE PESOS DIEZ MIL SEISCIENTOS TRES MILLONES \nCIENTO  DIECIOCHO  MIL  OCHOCIENTOS  CUARENTA  Y  UNO  CON  60/100 \n($10.603.118.841,60).  \nPlazo de impugnación: dentro del plazo de tres (3) días.  \nFundamento de la preadjudicación: por resultar la oferta más conveniente. \nLugar de exhibición del acta: www.buenosairescompras.gob.ar \n \nAlejandro Daniel Puglia \nDirector General \n",
+  "esperado": {
+   "codigo_proceso": "2900-1031-LPU23",
+   "etapa": "preadjudicacion",
+   "monto_total": 10603118841.6,
+   "firmas": [
+    {
+     "nombre": "FRIENDS FOOD S.A",
+     "rol": "preadjudicada",
+     "monto": 10603118841.6
+    }
+   ]
+  }
+ }
+]
