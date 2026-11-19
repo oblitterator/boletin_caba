@@ -19,7 +19,7 @@ import re
 from dataclasses import dataclass, field, asdict
 from typing import Optional
 
-PARSER_VERSION = "2.3.1"
+PARSER_VERSION = "2.3.2"
 
 # ---------------------------------------------------------------------------
 # Utilidades
@@ -59,6 +59,9 @@ def a_numero(s: str) -> Optional[float]:
             return float("".join(partes))
         if len(partes) == 2 and len(partes[1]) in (1, 2):
             return float(s)
+        # "8.646.000.00": miles con punto y centavos con punto
+        if len(partes) > 2 and all(len(p) == 3 for p in partes[1:-1]) and len(partes[-1]) in (1, 2):
+            return float("".join(partes[:-1]) + "." + partes[-1])
         return None
     return float(s)
 
@@ -70,10 +73,17 @@ def primer_monto(s: str) -> Optional[float]:
     return r[0] if r else None
 
 
+MONTO_MAXIMO = 1e12   # ningún acto del BO supera el billón de pesos: más que eso es un error de tipeo/extracción
+
+
+def monto_valido(v: Optional[float]) -> bool:
+    return v is not None and 0 < v <= MONTO_MAXIMO
+
+
 def primer_monto_moneda(s: str) -> Optional[tuple[float, str]]:
     for m in _MONTO.finditer(s):
         v = a_numero(m.group(1))
-        if v is not None and v > 0:
+        if monto_valido(v):
             moneda = "USD" if re.match(r"(U\$S|USD)", m.group(0)) else "ARS"
             return v, moneda
     return None
@@ -282,8 +292,18 @@ def parece_firma(l: str) -> bool:
     return len(l.split()) <= 14
 
 
+_CORTE_NOMBRE = re.compile(
+    r"^.*(?:\ba\s+favor\s+de(?:\s+la\s+firma)?|\ba\s+la\s+firma|\bla\s+empresa|\bpor\s+la\s+empresa|"
+    r"\bfirma\s+adjudicataria|\bproveedor|\boferente)\s*[:\"“]?\s*", re.I)
+
+
 def limpiar_nombre(n: str) -> str:
     n = re.sub(r"\s+", " ", n).strip(" -.,;:")
+    n = _CORTE_NOMBRE.sub("", n)                         # "... a favor de la firma X" -> "X"
+    n = re.sub(r"^[\d.,\s$-]+(?:-\s*)?", "", n)          # "14.848.000.- X" -> "X"
+    n = n.strip(" -.,;:\"“”'")
+    if n and n[0].islower():                             # arrastre de frase: "gún asesoramiento ... X"
+        n = re.split(r"[.,;]\s+(?=[A-ZÁÉÍÓÚÑ])", n)[-1]
     n = re.sub(r"^(la\s+)?firma\s*:?\s*", "", n, flags=re.I)
     # "Por inadmisible. Tecnoimagen S.A." -> "Tecnoimagen S.A."
     n = re.sub(r"^.*\b[a-záéíóúñ]{3,}\.\s+(?=[A-ZÁÉÍÓÚÑ])", "", n)
@@ -381,6 +401,7 @@ def extraer_firmas(lineas: list[str], plano: str) -> tuple[list[Firma], bool]:
             firmas.append(actual)
         j = i + 1
         renglones: dict[int, float] = {}       # id(firma) -> suma de totales de renglón
+        renglon_roto: set[int] = set()
         en_bloque: list[Firma] = [actual] if actual else []
         while j < len(lineas):
             l = lineas[j]
@@ -413,7 +434,9 @@ def extraer_firmas(lineas: list[str], plano: str) -> tuple[list[Firma], bool]:
                     texto_r = l + (" " + sig if re.search(r"(total|\$)\s*:?\s*\$?\s*$", l, re.I) else "")
                     montos = [a_numero(m.group(1)) for m in _MONTO.finditer(texto_r)]
                     montos = [m for m in montos if m]
-                    if montos:
+                    if montos and not monto_valido(montos[-1]):
+                        renglon_roto.add(id(actual))      # renglón ilegible: la suma de la firma no es confiable
+                    elif montos:
                         renglones[id(actual)] = renglones.get(id(actual), 0.0) + montos[-1]
                 j += 1
                 continue
@@ -435,7 +458,7 @@ def extraer_firmas(lineas: list[str], plano: str) -> tuple[list[Firma], bool]:
                 firmas.append(actual); en_bloque.append(actual)
             j += 1
         for f in en_bloque:
-            if f.monto is None and renglones.get(id(f)):
+            if f.monto is None and renglones.get(id(f)) and id(f) not in renglon_roto:
                 f.monto = round(renglones[id(f)], 2)
         i = j
 
@@ -632,7 +655,8 @@ def parsear_acto(nombre: Optional[str], texto: Optional[str]) -> Acto:
     a.firmas = firmas
 
     ganadoras = [f for f in firmas if f.rol in ("adjudicada", "preadjudicada")]
-    if a.monto_total is None and ganadoras and all(f.monto for f in ganadoras):
+    if (a.monto_total is None and ganadoras and all(f.monto for f in ganadoras)
+            and monto_valido(sum(f.monto for f in ganadoras))):
         a.monto_total, a.moneda = round(sum(f.monto for f in ganadoras), 2), "ARS"
         a.monto_origen = "suma_firmas"
 

@@ -90,9 +90,12 @@ BEGIN
 
   -- empresas vistas con CUIT pero ausentes del padrón (p.ej. personas humanas)
   INSERT INTO ref.empresa (cuit, razon_social, fuente)
-  SELECT DISTINCT ON (cuit_texto) cuit_texto, nombre_raw, 'bo' FROM bo.acto_firma WHERE cuit_texto IS NOT NULL
-  ORDER BY cuit_texto, length(nombre_raw) DESC
-  ON CONFLICT (cuit) DO NOTHING;
+  SELECT DISTINCT ON (cuit_texto) cuit_texto, nombre_raw, 'bo'
+  FROM (SELECT cuit_texto, nombre_raw, count(*) AS veces FROM bo.acto_firma
+        WHERE cuit_texto IS NOT NULL GROUP BY 1, 2) x
+  ORDER BY cuit_texto, veces DESC, length(nombre_raw)       -- el nombre más frecuente; ante empate, el más corto
+  ON CONFLICT (cuit) DO UPDATE SET razon_social = EXCLUDED.razon_social, actualizado_en = now()
+    WHERE ref.empresa.fuente = 'bo';                       -- nunca pisa el padrón oficial
   INSERT INTO ref.empresa (cuit, razon_social, fuente)
   SELECT DISTINCT ON (cuit) cuit, proveedor, 'bac' FROM bac.adjudicacion WHERE cuit IS NOT NULL
   ORDER BY cuit, fecha DESC NULLS LAST

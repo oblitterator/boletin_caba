@@ -114,5 +114,22 @@
     }
    ]
   }
+ },
+ {
+  "id_norma": 718367,
+  "nombre": "Contratación Menor / Preadjudicación  N° 1109/HGACA/23",
+  "texto": "MINISTERIO DE SALUD \n \nHOSPITAL GENERAL DE AGUDOS \"DR. COSME ARGERICH\" \n \nPreadjudicación - Contratación Menor N° 412-1109-CME23 \n \nContratación Menor N° 412-1109-CME23 \nObjeto de la contratación: Adquisicion de equipamiento con destino la Division Urologia. \nFirma preadjudicada: \nCicas S.R.L.  \nRenglón 1 - 1 unidad - Precio Unitario $ 5538000.-   Precio Total $ 5538000. \nRenglón 2 - 1 unidad - Precio Unitario $ 1554000.-   Precio Total $ 1554000. \nRenglón 3 - 1 unidad - Precio Unitario $ 1554000.-   Precio Total $ 15540005538000. \nTotal Preadjudicado: ocho millones seiscientos cuarenta y seis mil con 00/100 ($ \n8.646.000.00)  \nRenglones Desiertos: 0 \nFundamento de la preadjudicación: La oferta recomendada se ajusta al PBCP. Se elige única \noferta. \n",
+  "esperado": {
+   "codigo_proceso": "412-1109-CME23",
+   "etapa": "preadjudicacion",
+   "monto_total": 8646000.0,
+   "unica_oferta": true,
+   "firmas": [
+    {
+     "nombre": "Cicas S.R.L.",
+     "rol": "preadjudicada"
+    }
+   ]
+  }
  }
 ]

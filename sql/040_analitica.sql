@@ -253,24 +253,25 @@ GROUP BY a.id_norma, a.codigo_proceso, a.etapa, a.fecha_publicacion, a.url_norma
 HAVING count(af.monto) = count(*) AND count(*) > 1
    AND abs(sum(af.monto) - a.monto_total) > 0.01 * a.monto_total;
 
--- Firmas ganadoras sin CUIT, ordenadas por impacto, con candidatos del padrón.
--- Para resolverlas: INSERT INTO ref.empresa_alias (nombre_norm, cuit, fuente) VALUES ('<nombre_norm>', <cuit>, 'manual');
+-- Firmas ganadoras sin CUIT, ordenadas por impacto. Los candidatos del padrón NO se calculan acá
+-- (serían miles de búsquedas sobre 1,15M de empresas): usar ref.candidatos_cuit() sobre las filas a mostrar.
+-- Para resolver: INSERT INTO ref.empresa_alias (nombre_norm, cuit, fuente) VALUES ('<nombre_norm>', <cuit>, 'manual');
 CREATE VIEW analitica.pendientes_cuit AS
-WITH p AS (
-  SELECT af.nombre_norm, min(af.nombre_raw) AS ejemplo, count(*) AS actos,
-         count(DISTINCT a.organismo_id) AS organismos,
-         sum(coalesce(af.monto, CASE WHEN a.n_firmas_identificadas = 1 THEN a.monto_total END)) AS monto_aprox,
-         max(a.fecha_publicacion) AS ultima
-  FROM bo.acto_firma af JOIN analitica.acto_v a USING (id_norma)
-  WHERE af.resolucion = 'sin_resolver' AND af.rol IN ('adjudicada','preadjudicada') AND af.nombre_norm IS NOT NULL
-  GROUP BY af.nombre_norm
-)
-SELECT p.*, c.candidatos
-FROM p
-LEFT JOIN LATERAL (
+SELECT af.nombre_norm, min(af.nombre_raw) AS ejemplo, count(*) AS actos,
+       count(DISTINCT a.organismo_id) AS organismos,
+       sum(coalesce(af.monto, CASE WHEN a.n_firmas_identificadas = 1 THEN a.monto_total END)) AS monto_aprox,
+       max(a.fecha_publicacion) AS ultima
+FROM bo.acto_firma af JOIN analitica.acto_v a USING (id_norma)
+WHERE af.resolucion = 'sin_resolver' AND af.rol IN ('adjudicada','preadjudicada') AND af.nombre_norm IS NOT NULL
+GROUP BY af.nombre_norm;
+
+-- Hasta 5 candidatos del padrón para un nombre (usar solo sobre pocas filas)
+CREATE OR REPLACE FUNCTION ref.candidatos_cuit(p_nombre text) RETURNS text
+LANGUAGE sql STABLE AS $$
   SELECT string_agg(e.cuit || ' ' || e.razon_social || coalesce(' (' || e.fecha_contrato_social || ')', ''), ' | '
-                    ORDER BY similarity(e.nombre_norm, p.nombre_norm) DESC) AS candidatos
-  FROM (SELECT * FROM ref.empresa e
-        WHERE e.nombre_base = ref.norm_nombre_base(p.ejemplo) OR e.nombre_norm % p.nombre_norm
-        ORDER BY similarity(e.nombre_norm, p.nombre_norm) DESC LIMIT 5) e
-) c ON true;
+                    ORDER BY e.sim DESC)
+  FROM (SELECT cuit, razon_social, fecha_contrato_social, similarity(nombre_norm, ref.norm_nombre(p_nombre)) AS sim
+        FROM ref.empresa
+        WHERE nombre_base = ref.norm_nombre_base(p_nombre) OR nombre_norm % ref.norm_nombre(p_nombre)
+        ORDER BY sim DESC LIMIT 5) e
+$$;

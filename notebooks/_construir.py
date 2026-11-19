@@ -87,7 +87,9 @@ todo lo automático) y volvé a correr `python -m monitor_licitaciones resolver`
 INSERT INTO ref.empresa_alias (nombre_norm, cuit, fuente) VALUES ('GBO ARGENTINA SA', 30708003391, 'manual');
 ```""",
 """
-db.df("SELECT nombre_norm, ejemplo, actos, organismos, monto_aprox, ultima, candidatos FROM analitica.pendientes_cuit ORDER BY actos DESC LIMIT 40")
+db.df(\"\"\"SELECT p.*, ref.candidatos_cuit(p.ejemplo) AS candidatos
+          FROM (SELECT * FROM analitica.pendientes_cuit ORDER BY actos DESC LIMIT 40) p
+          ORDER BY p.actos DESC\"\"\")
 """,
 """md:## 4. Montos que no cierran
 Actos donde la suma de montos por firma difiere más de 1% del total declarado. Pueden ser errores del propio Boletín o del
